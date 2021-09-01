@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @metaversepunk
+- 👀 I’m interested in blockchain, NFT's, and generative art.
+- 🌱 I’m currently learning solidity and p5js.
